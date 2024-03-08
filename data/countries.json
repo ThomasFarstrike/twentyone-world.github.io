@@ -168,7 +168,9 @@
     "alpha3": "BLZ",
     "numeric": 84,
     "latitude": 17.25,
-    "longitude": -88.75
+    "longitude": -88.75,
+    "name": "TESTNAME",
+    "link_to_public_community_group": "https://test.name/"
   },
   {
     "country": "Benin",
